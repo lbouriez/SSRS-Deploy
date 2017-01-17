@@ -45,7 +45,7 @@ Public Sub Main()
     
     'Remove folders
     Console.WriteLine("Removing folders ... (Disabled for safety reasons)")
-    'DeleteDeploymentFolders()
+    DeleteDeploymentFolders()
     
     Console.WriteLine("Done")
   Catch ex As Exception
