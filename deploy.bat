@@ -1,4 +1,4 @@
-set varServerPath=http://ldn-nt-sqldev12.eu.newedge.int/reportserver
+set varServerPath=http://SERVER/reportserver
 set varReportFolder=Spartacus/CSReports
 Set varDatasetFolder=
 set varDataSourceFolder=Spartacus/Data Sources
